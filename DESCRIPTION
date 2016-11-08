@@ -1,10 +1,10 @@
 Package: echo
 Type: Package
-Title: What the Package Does in One 'Title Case' Line
-Version: 1.0
+Title: Common Fuction used by Hao Wu 
+Version: 0.1
 Date: 2016-11-07
-Author: Your Name
-Maintainer: Your Name <your@email.com>
+Author: Hao Wu
+Maintainer: Hao Wu <echowuhao@gmail.com>
 Description: One paragraph description of what the package does as one or more full sentences.
 License: GPL (>= 2)
 Imports: Rcpp (>= 0.12.5)

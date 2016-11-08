@@ -5,8 +5,4 @@ rcpp_hello_world <- function() {
     .Call('echo_rcpp_hello_world', PACKAGE = 'echo')
 }
 
-reverse_str<- function() {
-    .Call('echo_reverse_str', PACKAGE = 'echo')
-}
-
 

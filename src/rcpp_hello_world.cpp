@@ -12,9 +12,8 @@ List rcpp_hello_world() {
     return z ;
 }
 
-#include <Rcpp.h>
 // [[Rcpp::export]]
-std::string reverse_str(std::string str ) {
+std::string str_reverse(std::string str ) {
     std::reverse(str.begin(), str.end());
     return str;
 }
